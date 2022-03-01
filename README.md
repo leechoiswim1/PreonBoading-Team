@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hello,%20We%20are%20looking%20for%20a%20job👋%&fontSize=50&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=FE&nbsp;|&nbsp;Pre&nbsp;Onboarding&nbsp;Course&desc=19조&nbsp;|&nbsp;취업하구19조&fontSize=50&descSize=30&animation=fadeIn&fontAlignY=36)
 
 ## 원티드 X 위코드 X 임팩트캠퍼스 프리온보딩 코스 
 - 전공자, 주니어 경력자, 부트캠프등을 통해 일정 수준 기술역량을 갖춘 인재들의 graduate school
